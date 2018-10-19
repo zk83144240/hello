@@ -1,1 +1,2 @@
-# hello
+print 'hello python'
+print 'HI !'
